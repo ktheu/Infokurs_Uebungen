@@ -1,0 +1,21 @@
+# Infokurs – Übungen
+
+Übungsnotebooks zu den Unterrichtseinheiten. Sie laufen direkt im Browser mit [JupyterLite](https://jupyterlite.readthedocs.io/), ohne Installation und ohne Anmeldung.
+
+| Einheit | Notebook öffnen |
+|---|---|
+| Grundlagen | [grundlagen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=grundlagen_uebungen.ipynb) |
+| Bedingungen und Schleifen | [bedingungen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bedingungen_uebungen.ipynb) |
+| Listen, Zufall, Funktionen, Dateien | [listen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=listen_uebungen.ipynb) |
+| Fehler, Debugger, Einfache Algorithmen | [fehler_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=fehler_uebungen.ipynb) |
+| Datenbanken | [sql_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sql_uebungen.ipynb) (die Datenbank ist schon dabei) |
+
+Alle Notebooks auf einmal: [JupyterLab](https://ktheu.github.io/Infokurs_Uebungen/lab/index.html)
+
+Weitere Übungen zum Selbststudium: [Python-Übungen](https://ktheu.github.io/python-uebungen/)
+
+## Hinweise
+
+- Beim ersten Ausführen einer Zelle wird Python in den Browser geladen. Das dauert ein paar Sekunden.
+- Deine Änderungen werden **im Browser** gespeichert. Auf einem anderen Gerät oder nach dem Löschen der Browserdaten sind sie weg.
+  Wer seine Lösungen behalten will, lädt das Notebook herunter (*File → Download*) und lädt es später in JupyterLab wieder hoch.
