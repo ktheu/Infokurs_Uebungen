@@ -2,3 +2,4 @@ _site/
 .jupyterlite.doit.db
 __pycache__/
 .ipynb_checkpoints/
+notizen.md
