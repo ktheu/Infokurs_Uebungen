@@ -4,3 +4,6 @@ __pycache__/
 .ipynb_checkpoints/
 notizen.md
 claude.md
+
+# Hinweise für Claude Code, nur lokal (nicht auf GitHub)
+CLAUDE.md
