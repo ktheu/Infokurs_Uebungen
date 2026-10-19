@@ -3,3 +3,4 @@ _site/
 __pycache__/
 .ipynb_checkpoints/
 notizen.md
+claude.md
