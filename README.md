@@ -9,6 +9,7 @@
 | Listen, Zufall, Funktionen, Dateien | [listen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=listen_uebungen.ipynb) |
 | Fehler, Debugger, Einfache Algorithmen | [fehler_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=fehler_uebungen.ipynb) |
 | Datenbanken | [sql_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sql_uebungen.ipynb) (die Datenbank ist schon dabei) |
+| Zettel zum Ausprobieren | [zettel.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb) |
 
 Alle Notebooks auf einmal: [JupyterLab](https://ktheu.github.io/Infokurs_Uebungen/lab/index.html)
 
