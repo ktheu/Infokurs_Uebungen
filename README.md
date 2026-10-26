@@ -11,6 +11,7 @@
 | Bits und Bytes, Zahlsysteme | [bitsUndBytes_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb) |
 | ASCII, Unicode, UTF-8 | [unicode_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb) |
 | Digitalisierung von Bildern und Audio | [digitalisierung_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb) |
+| Netze | [netze_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=netze_uebungen.ipynb) |
 | Datenbanken | [sql_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sql_uebungen.ipynb) (die Datenbank ist schon dabei) |
 | Zettel zum Ausprobieren | [zettel.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb) |
 
