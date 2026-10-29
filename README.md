@@ -8,6 +8,7 @@
 | Bedingungen und Schleifen | [bedingungen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bedingungen_uebungen.ipynb) |
 | Listen, Zufall, Funktionen, Dateien | [listen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=listen_uebungen.ipynb) |
 | Fehler, Debugger, Einfache Algorithmen | [fehler_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=fehler_uebungen.ipynb) |
+| Variablen, Datentypen, Typumwandlung | [variablen_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=variablen_uebungen.ipynb) |
 | Bits und Bytes, Zahlsysteme | [bitsUndBytes_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb) |
 | ASCII, Unicode, UTF-8 | [unicode_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb) |
 | Digitalisierung von Bildern und Audio | [digitalisierung_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb) |
