@@ -15,6 +15,7 @@
 | Netze | [netze_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=netze_uebungen.ipynb) |
 | Netze mit Filius | [filius_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=filius_uebungen.ipynb) |
 | Der Modellrechner Johnny | [johnny.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=johnny.ipynb) (zusammen mit [Johnny im Browser](https://dev.inf-schule.de/content/12_rechner/4_johnny/johnny3/)) |
+| Datensicherheit: Geheimtexte entschlüsseln | [datensicherheit_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=datensicherheit_uebungen.ipynb) |
 | Datenbanken | [sql_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sql_uebungen.ipynb) (die Datenbank ist schon dabei) |
 | Zettel zum Ausprobieren | [zettel.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb) |
 
