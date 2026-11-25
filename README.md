@@ -18,6 +18,7 @@
 | Datensicherheit 1: Geheimtexte entschlüsseln | [datensicherheit1_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=datensicherheit1_uebungen.ipynb) |
 | Datensicherheit 2: Modulo-Rechnung, Diffie-Hellman, RSA, Hashfunktionen, Signaturen | [datensicherheit2_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=datensicherheit2_uebungen.ipynb) |
 | Datenbanken | [sql_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sql_uebungen.ipynb) (die Datenbank ist schon dabei) |
+| Listen und Strings für die JwInf-Aufgaben | [jwinf_uebungen.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=jwinf_uebungen.ipynb) |
 | Zettel zum Ausprobieren | [zettel.ipynb](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb) |
 
 Alle Notebooks auf einmal: [JupyterLab](https://ktheu.github.io/Infokurs_Uebungen/lab/index.html)
